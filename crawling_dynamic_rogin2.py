@@ -9,8 +9,8 @@ driver.get(link)
 
 time.sleep(2)
 
-myid = 'rlaek4793'
-mypw = 'cutyjw5110'
+myid = 'id'
+mypw = 'pw'
 
 driver.execute_script("document.getElementsByName('id')[0].value = \'" + myid + "\'")
 driver.execute_script("document.getElementsByName('id')[0].value = \'" + mypw + "\'")
