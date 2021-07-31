@@ -1,1 +1,1 @@
-#crolling_study
+#crolling_study with practical practice(naverNews, naverShopping etc..)
