@@ -11,8 +11,8 @@ driver.get(login_url)
 
 time.sleep(2)
 
-my_id = 'rlaek4793'
-my_pw = 'cutyjw5110'
+my_id = 'id'
+my_pw = 'pw'
 
 driver.execute_script("document.getElementsByName('id')[0].value = \'" + my_id + "\'")
 time.sleep(1)
