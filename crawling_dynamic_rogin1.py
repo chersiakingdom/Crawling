@@ -24,8 +24,8 @@ driver.get(link)
 
 time.sleep(2)
 
-myid = 'rlaek4793'
-mypw = 'cutyjw5110'
+myid = 'id'
+mypw = 'pw'
 
 #아이디와 비밀번호 입력, 자바스크립트로 해당 내용을 넘겨주는 함수(우회하여 로그인)
 driver.execute_script("document.getElementsByName('id')[0].value = \'" + myid + "\'")
